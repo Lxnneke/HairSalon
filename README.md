@@ -12,3 +12,10 @@ I hope you'll be willing to watch along with me and see how I'll manage!
 
 For now, this is what I did: 
 > Set up the photos and files. No text or styles added yet, just the bare basics to get started.
+
+
+### Update 2: 
+I have finished setting up all the text in the HTML (not all the classes yet though!) and set up the basics for CSS. I added a few photos I missed, the font link and the fontawesome links!
+
+My next step: 
+> Start with the phone version for the first time. See how that works for me!
