@@ -19,3 +19,6 @@ I have finished setting up all the text in the HTML (not all the classes yet tho
 
 My next step: 
 > Start with the phone version for the first time. See how that works for me!
+
+### Update 3: 
+So, I have started on my phone version. I will admit, it's more difficult than I anticipated. I am struggling with getting the right measurements etc, especially with just float. But we are getting there (hopefully)
