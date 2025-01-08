@@ -22,3 +22,6 @@ My next step:
 
 ### Update 3: 
 So, I have started on my phone version. I will admit, it's more difficult than I anticipated. I am struggling with getting the right measurements etc, especially with just float. But we are getting there (hopefully)
+
+### Update 4: 
+Did not have a great work day, so I got started on the nav bar for the laptop view. Made sure it still worked on phone view as well, and started on the main section of the website!
