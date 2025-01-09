@@ -25,3 +25,7 @@ So, I have started on my phone version. I will admit, it's more difficult than I
 
 ### Update 4: 
 Did not have a great work day, so I got started on the nav bar for the laptop view. Made sure it still worked on phone view as well, and started on the main section of the website!
+
+### Update 5: 
+
+Got a lil bit further with the main section of the webpage! I am just looking forward to the weekend so I can actually spend some time finishing it up asap!
