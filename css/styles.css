@@ -209,9 +209,44 @@ h3 {
 /******************************************
 /* EXPERTS
 /*******************************************/
+.stylistSection {
+  height: 600px;
+  margin-top: 75px;
+}
 
+.stylists {
+  float: left;
+  width: 25%;
+}
 
+.stylistImg {
+  width: 80%;
+}
 
+.firstStylist {
+  margin-left:230px;
+}
+
+.blackBox { 
+  background-color: black;
+  width: 60%;
+  margin-left: 10%;
+  padding: 20px;
+  position: relative;
+  top: -40px;
+  color:white;
+}
+
+.expertise, .name {
+  color: white;
+  display: block;
+  text-align: center;
+}
+
+.name {
+  font-size: 20px;
+  font-weight: 600;
+}
 /******************************************
 /* COLOUR DAY OFFER
 /*******************************************/
