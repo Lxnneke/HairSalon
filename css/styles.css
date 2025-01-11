@@ -250,8 +250,26 @@ h3 {
 /******************************************
 /* COLOUR DAY OFFER
 /*******************************************/
+.colourDayOffer {
+  width: 74%;
+  margin-left: 18%;
+  background-image: url(../images/thing.png);
+  height: 400px;
+  padding: 60px;
+}
 
+.offerText {
+  font-size: 26px;
+}
 
+.offerDescr {
+  font-size: 40px;
+  width: 50%;
+}
+
+.percentile {
+  font-weight: 700;
+}
 
 /******************************************
 /* LOOKBOOK SECTION
