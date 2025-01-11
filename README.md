@@ -32,3 +32,7 @@ Got a lil bit further with the main section of the webpage! I am just looking fo
 
 ### Update 6: 
 It's the weekend, finally! I have now finished up the header in laptop view of the website. I have kind of lost track of making it responsive, especially with the floats. Hoping that flexbox will do what I want more than float is lol
+
+### Update 7: 
+So I sat down for it, and I got the laptop website done in roughly an hour? The remaining pieces at least! But I am happy I am improving on being non-responsive, which means I can start focusing on being responsive, once I get flex-box down a bit more! 
+Happy with the end result! 
