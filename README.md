@@ -29,3 +29,6 @@ Did not have a great work day, so I got started on the nav bar for the laptop vi
 ### Update 5: 
 
 Got a lil bit further with the main section of the webpage! I am just looking forward to the weekend so I can actually spend some time finishing it up asap!
+
+### Update 6: 
+It's the weekend, finally! I have now finished up the header in laptop view of the website. I have kind of lost track of making it responsive, especially with the floats. Hoping that flexbox will do what I want more than float is lol
